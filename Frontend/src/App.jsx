@@ -1,5 +1,3 @@
-// cd documents/projects/LearnFromYoutube/Frontend
-// npm run dev
 import React, { useState } from "react";
 import axios from "axios";
 
