@@ -1,0 +1,9 @@
+flask
+youtube-transcript-api
+openai
+flask-cors
+
+fastapi
+uvicorn
+youtube-transcript-api
+openai
