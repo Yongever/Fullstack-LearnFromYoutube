@@ -1,8 +1,3 @@
-# cd documents/projects/LearnFromYoutube/backend
-# python app.py
-# uvicorn app:app --reload
-
-
 from flask import Flask, request, jsonify
 from youtube_transcript_api import YouTubeTranscriptApi
 import openai
